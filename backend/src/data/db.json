@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "collectionName": "users",
+      "name": "dfdf",
+      "email": "a@a.com",
+      "password": "$2b$10$krKRmpkEdM2mZkSIFssI2e64iEwmffAKKoV5t.ixQEZJkHO/e/HoC",
+      "_id": "1772440373472",
+      "createdAt": "2026-03-02T08:32:53.472Z",
+      "updatedAt": "2026-03-02T08:32:53.472Z"
+    }
+  ],
+  "categories": [],
+  "transactions": []
+}
