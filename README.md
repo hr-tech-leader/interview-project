@@ -9,14 +9,14 @@ To set up and run:
 - [Git](https://git-scm.com/) (version control system)
 ## Clone the repository:
 ```
-git clone https://github.com/hr-tech-leader/dev-personal-finance-project.git
+git clone https://github.com/hr-tech-leader/interview-project.git
 ```
 
 ## Start web site
 
 1. Go to the dev-personal-finance-project:
 ```
-cd dev-personal-finance-project
+cd interview-project
 ```
 
 2. Install dependencies:
