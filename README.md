@@ -14,7 +14,7 @@ git clone https://github.com/hr-tech-leader/interview-project.git
 
 ## Start web site
 
-1. Go to the dev-personal-finance-project:
+1. Go to the interview-project:
 ```
 cd interview-project
 ```
